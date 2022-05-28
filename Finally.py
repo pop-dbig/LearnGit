@@ -1,0 +1,1 @@
+print('End of noobie, now you know something to talk about Git')
